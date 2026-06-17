@@ -1,0 +1,14 @@
+name: hermesbro-groot
+version: 1.0.0
+description: "Assistente operativo per la brigata di cucina. Centralizza scorte, lista spesa, food cost e organizzazione via Telegram."
+hermes_requires: ">=0.16.0"
+author: "HermesBro"
+license: "MIT"
+
+env_requires:
+  - name: TELEGRAM_BOT_TOKEN
+    description: "Telegram bot token (da @BotFather)"
+    required: true
+  - name: DEEPSEEK_API_KEY
+    description: "DeepSeek API key per LLM"
+    required: true
