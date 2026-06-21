@@ -1,4 +1,6 @@
 # GROOT — Brigata Ristorante
+[![Production](https://img.shields.io/badge/HermesBro-production-brightgreen?style=flat-square&logo=github)]()
+
 
 **L'assistente tecnologico della squadra di cucina.** GROOT centralizza scorte, lista spesa, food cost e organizzazione per la brigata del ristorante tramite un agente conversazionale Hermes su Telegram, condiviso e proattivo.
 
